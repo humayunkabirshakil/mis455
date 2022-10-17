@@ -1,0 +1,155 @@
+
+.a{
+    max-height: 600;
+    max-width: 450;
+    border-radius: 00px;
+    margin-top: 05%;
+    margin-right: 35%;
+    display: flex;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 42;
+    color: rgb(139, 63, 63);
+    letter-spacing: 5px;
+    border: 30px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.head3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 3);
+    font-size: 24;
+    padding: 20px;
+
+}
+.top{
+    border: 30px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 32, 37);
+    font-weight: 500;
+}
+
+h2{
+    text-align: left;
+    
+    
+}
+
+.g{
+    max-height: 200%;
+    max-width: 500;
+    display: flex;
+    margin-top: 11%;
+    margin-left: 0%;
+    border-radius: 50px;
+    border: 30px;
+    padding: 20px;
+
+}
+
+.middle{
+    border: 100px;
+    padding: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 7);
+    font-weight: 500
+}
+
+.container{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(14, 14, 14);
+    font-weight: 500;
+    margin-bottom: 00%;
+    
+    
+    outline-color: rgb(20, 20, 20);
+    
+    
+
+}
+
+.icon1{
+    max-width: 200px;
+    max-height: 150px;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.inner1{
+    border: 40px;
+    padding: 20px;
+    
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 33%;
+}
+
+.inner2{
+    border: 40px;
+    padding: 20px;
+    
+    margin: 10px;
+    background-color: rgb(255, 251, 246);
+    width: 33%;
+}
+
+.inner3{
+    border: 40px;
+    padding: 20px;
+    
+    margin: 10px;
+    background-color: rgb(255, 251, 246);
+    width: 33%;
+
+}
+
+.icon2{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 100px;
+    padding: 20px;
+    
+}
+
+.icon3{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 100px;
+    margin-top: 7%;
+    
+    
+    
+}
+
+.abilities{
+    border: 100px;
+    padding: 50px;
+    margin-top: 00;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+    color: rgb(8, 8, 8);
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    margin: 0%;
+    
+}
+
+.end{
+    color: rgb(7, 7, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10%;
+}
